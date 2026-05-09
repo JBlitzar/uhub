@@ -1430,10 +1430,22 @@
 		)
 	)
 	(junction
+		(at 193.04 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "003be105-d757-482a-9b83-f8a91835b57f")
+	)
+	(junction
 		(at 97.79 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "01301088-a4ea-4ef5-8fea-e5617b514b71")
+	)
+	(junction
+		(at 21.59 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0562cdc1-8714-4508-b3b9-d4c084d0d642")
 	)
 	(junction
 		(at 162.56 83.82)
@@ -1442,16 +1454,10 @@
 		(uuid "064a1050-b5b3-4d96-9b00-475092fe133f")
 	)
 	(junction
-		(at 165.1 134.62)
+		(at 21.59 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0fc36520-bd91-48f8-9ec4-af1678ec5b97")
-	)
-	(junction
-		(at 209.55 134.62)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "164f7fac-5d02-43ce-b67c-b42818fa4cd3")
+		(uuid "1926122b-9692-4d00-80fa-b1d6d83ea7e6")
 	)
 	(junction
 		(at 179.07 16.51)
@@ -1466,22 +1472,10 @@
 		(uuid "228fdd65-9ba2-4cdb-b2d4-bb4bd17b700e")
 	)
 	(junction
-		(at 158.75 91.44)
+		(at 120.65 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "23192f9a-f27f-4cf4-974d-72d6646d71fa")
-	)
-	(junction
-		(at 21.59 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2ac96e24-2ce5-4aa9-ae67-3b316567578c")
-	)
-	(junction
-		(at 21.59 41.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2fce635b-7cde-417e-a7f1-9962534e805e")
+		(uuid "2fffa657-e81d-4353-b432-0f222347eca4")
 	)
 	(junction
 		(at 120.65 16.51)
@@ -1508,22 +1502,10 @@
 		(uuid "4fd4d9b7-b3ba-4df5-ae5f-c8e9a31bd858")
 	)
 	(junction
-		(at 120.65 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "516bbb6c-cfea-4b22-9a96-bbc703dfc699")
-	)
-	(junction
 		(at 71.12 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "58ed9c84-c5b7-4f9e-84cd-a1a7bf42ce45")
-	)
-	(junction
-		(at 207.01 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "60a45e9d-2a55-4d09-9be7-3ae2a6107f69")
 	)
 	(junction
 		(at 121.92 63.5)
@@ -1532,10 +1514,10 @@
 		(uuid "722f4e13-98b5-477e-aa0b-5e9df0a49ba3")
 	)
 	(junction
-		(at 193.04 86.36)
+		(at 158.75 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "831be6f3-3926-416b-9713-33139ea0974d")
+		(uuid "7370a225-e5e3-4812-9aa6-4f845bc8c936")
 	)
 	(junction
 		(at 99.06 62.23)
@@ -1547,13 +1529,13 @@
 		(at 184.15 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b219668d-10bd-4d22-8c3b-131efbef50a2")
+		(uuid "c302ee0b-c331-495d-ab08-c8e6989b2fc8")
 	)
 	(junction
-		(at 69.85 72.39)
+		(at 207.01 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d04b7bad-8074-47c5-986e-f3e327757ed6")
+		(uuid "d2a827e4-3c7e-429f-9051-2104035bbdce")
 	)
 	(junction
 		(at 50.8 115.57)
@@ -1562,10 +1544,28 @@
 		(uuid "d596f021-f05a-4221-b26e-0d3322294419")
 	)
 	(junction
+		(at 209.55 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dc4b98e8-0848-4ba3-9484-9887b5a8aa85")
+	)
+	(junction
 		(at 232.41 20.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e76a52a8-198d-4349-9a9c-bff2c17ad16a")
+	)
+	(junction
+		(at 165.1 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f56a0179-b19d-4bd1-83a9-7e41bb473ab2")
+	)
+	(junction
+		(at 69.85 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ffdb8b87-ff83-4477-98db-d5e2a2598d9f")
 	)
 	(wire
 		(pts
@@ -1586,6 +1586,16 @@
 			(type default)
 		)
 		(uuid "02a9c494-a0b6-4e42-9a4c-70f63bc4431e")
+	)
+	(wire
+		(pts
+			(xy 209.55 134.62) (xy 231.14 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05590af5-0dc8-4e14-be0d-e3fa38bc2c26")
 	)
 	(wire
 		(pts
@@ -1789,16 +1799,6 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 86.36) (xy 193.04 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "471dd878-aaa0-49e8-a0d2-f53dd5190a22")
-	)
-	(wire
-		(pts
 			(xy 99.06 53.34) (xy 99.06 62.23)
 		)
 		(stroke
@@ -1836,16 +1836,6 @@
 			(type default)
 		)
 		(uuid "5671d521-6575-476c-8f50-a65e069b7b98")
-	)
-	(wire
-		(pts
-			(xy 209.55 134.62) (xy 231.14 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5689d846-8ea2-49a6-9792-d446675b0e0a")
 	)
 	(wire
 		(pts
@@ -1919,7 +1909,7 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 55.88) (xy 21.59 57.15)
+			(xy 21.59 54.61) (xy 21.59 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2019,7 +2009,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 86.36) (xy 195.58 86.36)
+			(xy 184.15 86.36) (xy 193.04 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2059,16 +2049,6 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 54.61) (xy 21.59 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a56bbe31-08c8-45d2-b0dd-6c7f1a8d8451")
-	)
-	(wire
-		(pts
 			(xy 120.65 63.5) (xy 129.54 63.5)
 		)
 		(stroke
@@ -2096,6 +2076,16 @@
 			(type default)
 		)
 		(uuid "b548a7c7-6fa7-45d8-979f-8932d701f57f")
+	)
+	(wire
+		(pts
+			(xy 193.04 86.36) (xy 195.58 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b78eb283-7112-4f41-95fb-202237d69ef9")
 	)
 	(wire
 		(pts
@@ -2269,16 +2259,6 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 134.62) (xy 182.88 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f4f99ac8-c965-471a-8678-a9eb24c8faa2")
-	)
-	(wire
-		(pts
 			(xy 120.65 16.51) (xy 133.35 16.51)
 		)
 		(stroke
@@ -2297,7 +2277,27 @@
 		)
 		(uuid "fa6aafdb-9ae9-462e-b682-9e4330698e13")
 	)
-	(label "DN1A"
+	(wire
+		(pts
+			(xy 21.59 55.88) (xy 21.59 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb366b8a-b48b-47f0-af06-0c25c4c785c5")
+	)
+	(wire
+		(pts
+			(xy 165.1 134.62) (xy 182.88 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fde29a80-486b-4e4f-b678-c71e38249bda")
+	)
+	(label "D1A-"
 		(at 76.2 40.64 180)
 		(effects
 			(font
@@ -2307,7 +2307,7 @@
 		)
 		(uuid "0a99f69d-9552-43b8-a938-17c5bdf3ebd0")
 	)
-	(label "DP4B"
+	(label "D4B+"
 		(at 231.14 121.92 180)
 		(effects
 			(font
@@ -2317,7 +2317,7 @@
 		)
 		(uuid "1538cac6-7426-4cb7-af79-6614e1bdd702")
 	)
-	(label "DP1B"
+	(label "D1B+"
 		(at 172.72 68.58 180)
 		(effects
 			(font
@@ -2357,7 +2357,7 @@
 		)
 		(uuid "3e4f87ca-1b56-4cd9-bed2-23fde83ed9d5")
 	)
-	(label "DN2B"
+	(label "D2B-"
 		(at 172.72 60.96 180)
 		(effects
 			(font
@@ -2367,7 +2367,7 @@
 		)
 		(uuid "3ebeab6d-53c1-4078-b7a1-928f7733df15")
 	)
-	(label "DN3B"
+	(label "D3B-"
 		(at 195.58 63.5 0)
 		(effects
 			(font
@@ -2397,7 +2397,7 @@
 		)
 		(uuid "48d8ef9e-947e-418e-9c80-5280c60d91c9")
 	)
-	(label "DNB"
+	(label "DB-"
 		(at 99.06 43.18 0)
 		(effects
 			(font
@@ -2407,7 +2407,7 @@
 		)
 		(uuid "4e838622-86d7-4f9a-974f-25f7bfcbb85b")
 	)
-	(label "DP1B"
+	(label "D1B+"
 		(at 55.88 124.46 180)
 		(effects
 			(font
@@ -2417,7 +2417,7 @@
 		)
 		(uuid "52abd6f4-71ee-430f-9814-8d6bc07e1e93")
 	)
-	(label "DP2A"
+	(label "D2A+"
 		(at 76.2 38.1 180)
 		(effects
 			(font
@@ -2427,7 +2427,7 @@
 		)
 		(uuid "55c21fe4-8126-4d19-aca4-82a0872e4a56")
 	)
-	(label "DNA"
+	(label "DA-"
 		(at 40.64 49.53 180)
 		(effects
 			(font
@@ -2437,7 +2437,7 @@
 		)
 		(uuid "5aed3377-99ce-4179-a2b2-d67be05218a6")
 	)
-	(label "DP1A"
+	(label "D1A+"
 		(at 133.35 25.4 180)
 		(effects
 			(font
@@ -2447,7 +2447,7 @@
 		)
 		(uuid "5d99713a-1ec3-4a06-9ec9-3f5eb0a9fb2e")
 	)
-	(label "DPA"
+	(label "DA+"
 		(at 40.64 46.99 180)
 		(effects
 			(font
@@ -2457,7 +2457,7 @@
 		)
 		(uuid "5ea6f0f0-cfb2-4f9b-9f70-8b6b9a09fa92")
 	)
-	(label "DPB"
+	(label "DB+"
 		(at 99.06 40.64 0)
 		(effects
 			(font
@@ -2487,7 +2487,7 @@
 		)
 		(uuid "6750d6fc-8da1-4b3a-8de3-7383f94c02eb")
 	)
-	(label "DPA"
+	(label "DA+"
 		(at 40.64 52.07 180)
 		(effects
 			(font
@@ -2497,7 +2497,7 @@
 		)
 		(uuid "6f26f125-69fb-41f7-85ed-e97bce592195")
 	)
-	(label "DN4B"
+	(label "D4B-"
 		(at 231.14 119.38 180)
 		(effects
 			(font
@@ -2507,7 +2507,7 @@
 		)
 		(uuid "729841e8-84cf-4d33-99b7-03c6c0f78f48")
 	)
-	(label "DP1A"
+	(label "D1A+"
 		(at 76.2 43.18 180)
 		(effects
 			(font
@@ -2527,7 +2527,7 @@
 		)
 		(uuid "788dcfe9-a5f2-4857-80a0-4a7bcbdee45b")
 	)
-	(label "DP3B"
+	(label "D3B+"
 		(at 182.88 127 180)
 		(effects
 			(font
@@ -2557,7 +2557,7 @@
 		)
 		(uuid "89a4e0ab-42d6-4dbb-a40b-fa785c018c9d")
 	)
-	(label "DP2B"
+	(label "D2B+"
 		(at 119.38 125.73 180)
 		(effects
 			(font
@@ -2567,7 +2567,7 @@
 		)
 		(uuid "90689371-29fa-44d8-9c1a-c00fec31f8e0")
 	)
-	(label "DNA"
+	(label "DA-"
 		(at 76.2 45.72 180)
 		(effects
 			(font
@@ -2577,7 +2577,7 @@
 		)
 		(uuid "983446c2-d927-4bd7-965f-de07050d7ee2")
 	)
-	(label "DP2B"
+	(label "D2B+"
 		(at 172.72 63.5 180)
 		(effects
 			(font
@@ -2587,7 +2587,7 @@
 		)
 		(uuid "9c2eb1af-505d-42b9-83aa-ea4e9c159677")
 	)
-	(label "DPB"
+	(label "DB+"
 		(at 172.72 73.66 180)
 		(effects
 			(font
@@ -2597,7 +2597,7 @@
 		)
 		(uuid "a17e9cf5-8f61-427a-b3da-ac0d3d2a9c9c")
 	)
-	(label "DP2A"
+	(label "D2A+"
 		(at 189.23 27.94 180)
 		(effects
 			(font
@@ -2617,7 +2617,7 @@
 		)
 		(uuid "a4fcb82e-f9a9-4034-8002-60a7ff61b124")
 	)
-	(label "DN4B"
+	(label "D4B-"
 		(at 195.58 68.58 0)
 		(effects
 			(font
@@ -2627,7 +2627,7 @@
 		)
 		(uuid "a6b5501d-0276-443b-baa7-4b0712db0fe5")
 	)
-	(label "DN1A"
+	(label "D1A-"
 		(at 133.35 22.86 180)
 		(effects
 			(font
@@ -2637,7 +2637,7 @@
 		)
 		(uuid "a9bab294-a4b7-4b8d-bdcc-3424898b41ad")
 	)
-	(label "DN1B"
+	(label "D1B-"
 		(at 172.72 66.04 180)
 		(effects
 			(font
@@ -2647,7 +2647,7 @@
 		)
 		(uuid "ae8e9c49-e437-428e-8132-dbc42c6537bc")
 	)
-	(label "DN2A"
+	(label "D2A-"
 		(at 189.23 25.4 180)
 		(effects
 			(font
@@ -2657,7 +2657,7 @@
 		)
 		(uuid "b108ff99-bfc7-401d-8dbf-5e644ba1958c")
 	)
-	(label "DN3A"
+	(label "D3A-"
 		(at 245.11 26.67 180)
 		(effects
 			(font
@@ -2667,7 +2667,7 @@
 		)
 		(uuid "b90f9391-dc02-45f6-bd06-decf9e48e93f")
 	)
-	(label "DP4B"
+	(label "D4B+"
 		(at 231.14 127 180)
 		(effects
 			(font
@@ -2677,7 +2677,7 @@
 		)
 		(uuid "b990e01a-e55a-4328-bd16-dc5eac89d3d5")
 	)
-	(label "DP3A"
+	(label "D3A+"
 		(at 99.06 35.56 0)
 		(effects
 			(font
@@ -2687,7 +2687,7 @@
 		)
 		(uuid "bde2d21f-e3bd-4d42-b894-995c21363685")
 	)
-	(label "DPA"
+	(label "DA+"
 		(at 76.2 48.26 180)
 		(effects
 			(font
@@ -2697,7 +2697,7 @@
 		)
 		(uuid "c50cc295-460a-4c62-a194-a86d86869713")
 	)
-	(label "DP3B"
+	(label "D3B+"
 		(at 195.58 60.96 0)
 		(effects
 			(font
@@ -2707,7 +2707,7 @@
 		)
 		(uuid "cdff73c0-e30a-4ffa-906c-8c79ae84163e")
 	)
-	(label "DP4B"
+	(label "D4B+"
 		(at 195.58 66.04 0)
 		(effects
 			(font
@@ -2717,7 +2717,7 @@
 		)
 		(uuid "d47a86af-04bf-41ff-b133-0343686f1fe2")
 	)
-	(label "DNB"
+	(label "DB-"
 		(at 172.72 71.12 180)
 		(effects
 			(font
@@ -2747,7 +2747,7 @@
 		)
 		(uuid "db74c2b2-ac86-476e-a743-06c4ce9d075e")
 	)
-	(label "DN3B"
+	(label "D3B-"
 		(at 182.88 124.46 180)
 		(effects
 			(font
@@ -2777,7 +2777,7 @@
 		)
 		(uuid "e8a4aa14-8e5f-4d00-86e8-e4bdcbcfa252")
 	)
-	(label "DN1B"
+	(label "D1B-"
 		(at 55.88 121.92 180)
 		(effects
 			(font
@@ -2797,7 +2797,7 @@
 		)
 		(uuid "e9bde01b-aedb-450d-b1bb-3c972deda6e7")
 	)
-	(label "DN2B"
+	(label "D2B-"
 		(at 119.38 123.19 180)
 		(effects
 			(font
@@ -2807,7 +2807,7 @@
 		)
 		(uuid "ec07408d-f141-4b4c-82d9-14dd2c2f6d3f")
 	)
-	(label "DNA"
+	(label "DA-"
 		(at 40.64 44.45 180)
 		(effects
 			(font
@@ -2817,7 +2817,7 @@
 		)
 		(uuid "ee6b8f93-78dc-4626-a806-637a9be9ed62")
 	)
-	(label "DN2A"
+	(label "D2A-"
 		(at 76.2 35.56 180)
 		(effects
 			(font
@@ -2827,7 +2827,7 @@
 		)
 		(uuid "f1322584-634b-48ed-9889-75c7918350cd")
 	)
-	(label "DN3A"
+	(label "D3A-"
 		(at 99.06 38.1 0)
 		(effects
 			(font
@@ -2837,7 +2837,7 @@
 		)
 		(uuid "f279b2a7-be9d-4700-b275-a5ec4cfdf6f6")
 	)
-	(label "DP3A"
+	(label "D3A+"
 		(at 245.11 29.21 180)
 		(effects
 			(font
@@ -2847,7 +2847,7 @@
 		)
 		(uuid "f3a507d8-1c59-4522-a844-6b5e19fdb79f")
 	)
-	(label "DP3B"
+	(label "D3B+"
 		(at 182.88 121.92 180)
 		(effects
 			(font
@@ -2857,7 +2857,7 @@
 		)
 		(uuid "f86b0bec-c6be-4ab7-bcc6-2768b516cf15")
 	)
-	(label "DN4B"
+	(label "D4B-"
 		(at 231.14 124.46 180)
 		(effects
 			(font
@@ -2877,7 +2877,7 @@
 		)
 		(uuid "fcf62033-a262-48a7-8106-85d7231ec73e")
 	)
-	(label "DN3B"
+	(label "D3B-"
 		(at 182.88 119.38 180)
 		(effects
 			(font
@@ -2919,7 +2919,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:USB-C-SMD_TYPE-C-16PIN-2MD-073"
+		(property "Footprint" "lcsc:USB-C-SMD_TYPE-C-16PIN-2MD-073"
 			(at 46.99 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -3148,7 +3148,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "lcsc:C0402"
 			(at 79.7052 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -3171,6 +3171,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 78.74 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C60474"
 			(at 78.74 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -3353,6 +3364,192 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 193.04 90.17 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0c2003da-ddc3-4e3e-84d2-4993af69b572")
+		(property "Reference" "C14"
+			(at 196.85 88.8999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 196.85 91.4399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "lcsc:C0402"
+			(at 194.0052 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 193.04 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C60474"
+			(at 193.04 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "46d20b0f-f234-411b-a43f-33d8d6f5f7e2")
+		)
+		(pin "1"
+			(uuid "255c59c5-d3b8-4d15-b898-3249c7bbd945")
+		)
+		(instances
+			(project "usbhub"
+				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
+					(reference "C14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 167.64 87.63 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0f4daf83-780e-4fc7-82ce-b3408e3d4be3")
+		(property "Reference" "C18"
+			(at 171.45 86.3599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 171.45 88.8999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "lcsc:C0402"
+			(at 168.6052 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 167.64 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C60474"
+			(at 167.64 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "22b02c56-0889-4e17-81ac-9203b8a15e3b")
+		)
+		(pin "1"
+			(uuid "4885cc6b-ab7d-46d8-869d-2045566e4b3b")
+		)
+		(instances
+			(project "usbhub"
+				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
+					(reference "C18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "lcsc:10.0QHHTZB6.3")
 		(at 129.54 124.46 0)
 		(unit 1)
@@ -3386,7 +3583,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:USB-A-TH_10.0QHHTZB6.3"
+		(property "Footprint" "lcsc:USB-A-TH_10.0QHHTZB6.3"
 			(at 129.54 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -3713,6 +3910,99 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 176.53 22.86 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "15043a96-61cd-4889-82d6-2595b330fd2b")
+		(property "Reference" "C21"
+			(at 180.34 21.5899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF"
+			(at 180.34 24.1299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "lcsc:C0402"
+			(at 177.4952 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 176.53 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C29266"
+			(at 176.53 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3f876b56-68c5-4810-a39e-29a11f939348")
+		)
+		(pin "1"
+			(uuid "9020674f-60e1-4bd8-a3e0-c5852f2a9fe8")
+		)
+		(instances
+			(project "usbhub"
+				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
+					(reference "C21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "lcsc:SL2.1S")
 		(at 87.63 44.45 0)
 		(unit 1)
@@ -3744,7 +4034,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL"
+		(property "Footprint" "lcsc:SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL"
 			(at 87.63 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -3862,6 +4152,99 @@
 			(project "usbhub"
 				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
 					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 120.65 67.31 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "16c19849-bd5d-4e0a-be85-45d986870383")
+		(property "Reference" "C9"
+			(at 124.46 66.0399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF"
+			(at 124.46 68.5799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "lcsc:C0402"
+			(at 121.6152 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 120.65 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 120.65 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C29266"
+			(at 120.65 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d1fe92da-2081-4ddb-a43d-9da5919023ae")
+		)
+		(pin "1"
+			(uuid "224bae13-d644-4eaa-950e-5b022a143867")
+		)
+		(instances
+			(project "usbhub"
+				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -4055,7 +4438,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:USB-C-SMD_TYPE-C-16PIN-2MD-073"
+		(property "Footprint" "lcsc:USB-C-SMD_TYPE-C-16PIN-2MD-073"
 			(at 189.23 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -4359,7 +4742,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:USB-C-SMD_TYPE-C-16PIN-2MD-073"
+		(property "Footprint" "lcsc:USB-C-SMD_TYPE-C-16PIN-2MD-073"
 			(at 237.49 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -4565,8 +4948,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "36573d6a-cd06-4cbf-83c6-614999f67488")
-		(property "Reference" "R5"
+		(uuid "35ae5d25-0960-44f7-a3ed-5d05a53bcba7")
+		(property "Reference" "R8"
 			(at 213.36 109.2199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4588,7 +4971,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "lcsc:R0402"
 			(at 209.042 110.49 90)
 			(hide yes)
 			(show_name no)
@@ -4621,79 +5004,8 @@
 				)
 			)
 		)
-		(pin "2"
-			(uuid "3021bcee-be3d-439a-9fc7-698073f8153a")
-		)
-		(pin "1"
-			(uuid "7763d7c7-91f0-4021-99be-c326c254af46")
-		)
-		(instances
-			(project "usbhub"
-				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "R5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 43.18 119.38 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3c1a22bc-3c61-45af-932c-55ac22cd03b5")
-		(property "Reference" "C19"
-			(at 46.99 118.1099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 46.99 120.6499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 44.1452 123.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 43.18 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 43.18 119.38 0)
+		(property "LCSC Part" "C105872"
+			(at 210.82 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4704,15 +5016,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "ff56806d-5d51-4469-9d36-925e8a03e5d9")
+			(uuid "1d12b3a3-ecad-4a70-ba74-d672b6403126")
 		)
 		(pin "1"
-			(uuid "1e49195a-a289-419e-8922-5af1eccd50de")
+			(uuid "38fcff52-6d82-41e5-9ce3-03b568960115")
 		)
 		(instances
 			(project "usbhub"
 				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "C19")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -4953,170 +5265,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 215.9 91.44 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "47879501-6454-40a3-8402-ad8521888ad9")
-		(property "Reference" "C16"
-			(at 219.71 90.1699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 219.71 92.7099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 216.8652 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 215.9 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 215.9 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "be7de5f6-8790-4c72-a6a0-fefc30c1e181")
-		)
-		(pin "1"
-			(uuid "83180c63-8bc6-42aa-8c64-16f8bcab5985")
-		)
-		(instances
-			(project "usbhub"
-				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "C16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 229.87 26.67 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4de3b418-54f2-475f-9e2b-b4ddab1989a8")
-		(property "Reference" "C3"
-			(at 233.68 25.3999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 233.68 27.9399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 230.8352 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 229.87 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 229.87 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "9190d09c-4fa5-4b6d-b30a-021b048fd34e")
-		)
-		(pin "1"
-			(uuid "6e991e3a-5075-4cf2-8c20-9d11cd326d56")
-		)
-		(instances
-			(project "usbhub"
-				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "C3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 201.93 15.24 0)
 		(unit 1)
@@ -5275,7 +5423,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 158.75 87.63 0)
+		(at 106.68 66.04 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5284,9 +5432,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "56bc581d-d7e4-4896-952f-1cba72f89556")
-		(property "Reference" "C17"
-			(at 162.56 86.3599 0)
+		(uuid "545ceb4d-564a-4d41-af2e-e955fe7cfe17")
+		(property "Reference" "C26"
+			(at 110.49 64.7699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5296,8 +5444,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
-			(at 162.56 88.8999 0)
+		(property "Value" "100nF"
+			(at 110.49 67.3099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5307,8 +5455,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 159.7152 91.44 0)
+		(property "Footprint" "lcsc:C0402"
+			(at 107.6452 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5319,7 +5467,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 87.63 0)
+			(at 106.68 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5330,7 +5478,18 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 158.75 87.63 0)
+			(at 106.68 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C60474"
+			(at 106.68 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5341,15 +5500,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "04a247be-83ca-409c-8d12-e7159df223ea")
+			(uuid "4b74b7a9-b6b3-4ea7-846a-9bf1855d989d")
 		)
 		(pin "1"
-			(uuid "15048d56-db2a-4740-9764-e0c60cc06304")
+			(uuid "ec4c6e13-7b18-47c3-9c31-5808244ad689")
 		)
 		(instances
 			(project "usbhub"
 				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "C17")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -5435,7 +5594,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 167.64 87.63 0)
+		(at 101.6 124.46 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5444,9 +5603,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "60c322b6-92d8-46f1-a5ea-4cb7a8523969")
-		(property "Reference" "C18"
-			(at 171.45 86.3599 0)
+		(uuid "5f130cb8-4ce1-495f-bb98-9d7a2d295dff")
+		(property "Reference" "C23"
+			(at 105.41 123.1899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5456,8 +5615,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
-			(at 171.45 88.8999 0)
+		(property "Value" "1uF"
+			(at 105.41 125.7299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5467,8 +5626,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 168.6052 91.44 0)
+		(property "Footprint" "lcsc:C0402"
+			(at 102.5652 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5479,7 +5638,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.64 87.63 0)
+			(at 101.6 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5490,7 +5649,18 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 167.64 87.63 0)
+			(at 101.6 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C29266"
+			(at 101.6 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5501,15 +5671,108 @@
 			)
 		)
 		(pin "2"
-			(uuid "f87f8f40-3083-4873-aece-a76ba55bc8af")
+			(uuid "49a99362-5887-4242-ae20-59b87fd057df")
 		)
 		(pin "1"
-			(uuid "932d65fe-56c6-457e-97b7-ebb264699d9d")
+			(uuid "d0a633b9-5eea-44bf-8445-8a3d8d5b365a")
 		)
 		(instances
 			(project "usbhub"
 				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "C18")
+					(reference "C23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 158.75 87.63 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "60f64389-6338-4fc1-8e0e-f2218ee821e8")
+		(property "Reference" "C17"
+			(at 162.56 86.3599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF"
+			(at 162.56 88.8999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "lcsc:C0402"
+			(at 159.7152 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 158.75 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 158.75 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C29266"
+			(at 158.75 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "70c4929d-f805-4817-9757-aa9e41097a74")
+		)
+		(pin "1"
+			(uuid "137e2b64-5a26-40cb-8f6b-e57ec43470f7")
+		)
+		(instances
+			(project "usbhub"
+				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -5594,88 +5857,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 207.01 125.73 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "69cf291b-d8f4-45a1-bb28-484ad6df1219")
-		(property "Reference" "R6"
-			(at 209.55 124.4599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "5.1k"
-			(at 209.55 126.9999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 205.232 125.73 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 207.01 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 207.01 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "965d13a7-f812-4486-be32-7e8c4a696111")
-		)
-		(pin "1"
-			(uuid "ec4b556f-4f2b-4849-b1d8-4614769be48b")
-		)
-		(instances
-			(project "usbhub"
-				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 200.66 109.22 0)
 		(unit 1)
@@ -5748,88 +5929,6 @@
 			(project "usbhub"
 				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
 					(reference "#PWR021")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 184.15 90.17 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6c9ccb7b-59cc-4369-a336-bb3346fb1e31")
-		(property "Reference" "C13"
-			(at 187.96 88.8999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 187.96 91.4399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 185.1152 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 184.15 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 184.15 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "7afa9d5c-a4fb-4c0b-9602-db3865635a95")
-		)
-		(pin "1"
-			(uuid "39913410-6a3c-4fd0-b7ab-20ad35bae6b5")
-		)
-		(instances
-			(project "usbhub"
-				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -6026,7 +6125,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:USB-A-TH_10.0QHHTZB6.3"
+		(property "Footprint" "lcsc:USB-A-TH_10.0QHHTZB6.3"
 			(at 66.04 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -6114,6 +6213,192 @@
 			(project "usbhub"
 				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
 					(reference "USB8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 69.85 68.58 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7414c593-e7ac-4505-a895-7bd63470b41c")
+		(property "Reference" "C11"
+			(at 73.66 67.3099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF"
+			(at 73.66 69.8499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "lcsc:C0402"
+			(at 70.8152 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 69.85 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 69.85 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C29266"
+			(at 69.85 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f0991164-7929-40f6-ad60-b659fa7dfe09")
+		)
+		(pin "1"
+			(uuid "d5d6c9e8-f3d0-4c01-9b4e-cf7c275eaa04")
+		)
+		(instances
+			(project "usbhub"
+				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
+					(reference "C11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 207.01 125.73 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "75b6c1b7-1506-4fd7-ae86-8637225bf630")
+		(property "Reference" "R9"
+			(at 209.55 124.4599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "5.1k"
+			(at 209.55 126.9999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "lcsc:R0402"
+			(at 205.232 125.73 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 207.01 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 207.01 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C105872"
+			(at 207.01 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "7b485297-df41-4a94-9ff0-aedc09bedb89")
+		)
+		(pin "1"
+			(uuid "5e363971-d25a-43fa-8247-9f686f1b28e5")
+		)
+		(instances
+			(project "usbhub"
+				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -6357,170 +6642,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 120.65 67.31 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8e532585-b695-425f-8c9c-dbf53d2c82fa")
-		(property "Reference" "C9"
-			(at 124.46 66.0399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 124.46 68.5799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 121.6152 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 120.65 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 120.65 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "35a99e92-4846-4c23-94a0-e4b1e1a58664")
-		)
-		(pin "1"
-			(uuid "160f5100-a6ef-429a-b68b-54d70991869c")
-		)
-		(instances
-			(project "usbhub"
-				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "C9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 106.68 66.04 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8f732606-a6d7-42cb-880d-b023822c3b96")
-		(property "Reference" "C8"
-			(at 110.49 64.7699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 110.49 67.3099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 107.6452 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 106.68 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "5c8695d1-336b-48ac-ae98-8c375362cf18")
-		)
-		(pin "1"
-			(uuid "e9b6b605-164e-4c8c-988c-b76d631a1e1b")
-		)
-		(instances
-			(project "usbhub"
-				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "C8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 97.79 66.04 0)
 		(unit 1)
 		(body_style 1)
@@ -6553,7 +6674,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "lcsc:C0402"
 			(at 98.7552 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6586,6 +6707,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C29266"
+			(at 97.79 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "64f3395f-0f3c-4a8e-8aa5-b7c5cb424cde")
 		)
@@ -6602,8 +6734,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 165.1 138.43 0)
+		(lib_id "Device:R")
+		(at 168.91 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6612,9 +6744,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "927872dd-021f-4a32-b8d2-31cfb4c207bc")
-		(property "Reference" "C4"
-			(at 168.91 137.1599 0)
+		(uuid "9225dcce-0945-4f63-94b6-1a9d4045101a")
+		(property "Reference" "R7"
+			(at 171.45 109.2199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6624,8 +6756,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
-			(at 168.91 139.6999 0)
+		(property "Value" "5.1k"
+			(at 171.45 111.7599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6635,8 +6767,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 166.0652 142.24 0)
+		(property "Footprint" "lcsc:R0402"
+			(at 167.132 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6647,7 +6779,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 138.43 0)
+			(at 168.91 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6657,8 +6789,19 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 165.1 138.43 0)
+		(property "Description" "Resistor"
+			(at 168.91 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C105872"
+			(at 168.91 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6669,15 +6812,108 @@
 			)
 		)
 		(pin "2"
-			(uuid "1b22eccf-a8a2-485e-8ed1-9534775fb9e6")
+			(uuid "8bae7e52-e2ae-4a97-b74c-daa9b2817434")
 		)
 		(pin "1"
-			(uuid "f079ad58-a75c-4f2b-8945-e9125157a64f")
+			(uuid "385a7e58-69d2-4f0d-a789-36489aa2a6ca")
 		)
 		(instances
 			(project "usbhub"
 				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "C4")
+					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 215.9 91.44 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9260ee64-471b-4f34-a1f6-6de57bda2731")
+		(property "Reference" "C16"
+			(at 219.71 90.1699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 219.71 92.7099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "lcsc:C0402"
+			(at 216.8652 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 215.9 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 215.9 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C60474"
+			(at 215.9 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "7889d37c-a72d-4bb3-81dd-03c284bf8187")
+		)
+		(pin "1"
+			(uuid "6bb9512c-938a-42f3-bde4-437dd92c5c6e")
+		)
+		(instances
+			(project "usbhub"
+				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -6841,7 +7077,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 101.6 124.46 0)
+		(at 129.54 67.31 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6850,9 +7086,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "9678b914-e3e0-450e-a846-a2082487714e")
-		(property "Reference" "C6"
-			(at 105.41 123.1899 0)
+		(uuid "974a3e08-a1ed-4201-a765-aba9f0d816ad")
+		(property "Reference" "C27"
+			(at 133.35 66.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6862,8 +7098,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
-			(at 105.41 125.7299 0)
+		(property "Value" "100nF"
+			(at 133.35 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6873,8 +7109,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 102.5652 128.27 0)
+		(property "Footprint" "lcsc:C0402"
+			(at 130.5052 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6885,7 +7121,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 124.46 0)
+			(at 129.54 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6896,7 +7132,18 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 101.6 124.46 0)
+			(at 129.54 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C60474"
+			(at 129.54 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6907,97 +7154,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "5f390d8e-9a56-463a-a55d-90276251cc40")
+			(uuid "50100176-550f-4962-8315-76b2dee9b209")
 		)
 		(pin "1"
-			(uuid "5c470fd5-ea76-473d-b914-90fff337d0af")
+			(uuid "3300ad49-5fcb-4f30-87fc-dc846cb83a1e")
 		)
 		(instances
 			(project "usbhub"
 				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "C6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 207.01 91.44 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "99219d89-c399-41af-bd1c-ba4cd2e86b4e")
-		(property "Reference" "C15"
-			(at 210.82 90.1699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 210.82 92.7099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 207.9752 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 207.01 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 207.01 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "26fffe9b-fa09-404c-8691-cadcebc2aa0a")
-		)
-		(pin "1"
-			(uuid "8a786b00-be99-404e-ba9c-25d8e1f3dff9")
-		)
-		(instances
-			(project "usbhub"
-				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "C15")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -7193,7 +7358,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:USB-A-TH_10.0QHHTZB6.3"
+		(property "Footprint" "lcsc:USB-A-TH_10.0QHHTZB6.3"
 			(at 143.51 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -7287,88 +7452,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 69.85 68.58 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a8ac30bc-233b-4384-92ca-302d68e3a17f")
-		(property "Reference" "C11"
-			(at 73.66 67.3099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 73.66 69.8499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 70.8152 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 69.85 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 69.85 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "0ab607ac-3d05-4144-994e-13d6a413619f")
-		)
-		(pin "1"
-			(uuid "c13cdb39-faa0-48ea-b5cb-7770accedf85")
-		)
-		(instances
-			(project "usbhub"
-				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "C11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 207.01 95.25 0)
 		(unit 1)
@@ -7441,88 +7524,6 @@
 			(project "usbhub"
 				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
 					(reference "#PWR033")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 193.04 90.17 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ad3dda08-180c-4657-b2d7-5b0a91fbbd8f")
-		(property "Reference" "C14"
-			(at 196.85 88.8999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 196.85 91.4399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 194.0052 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 193.04 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 193.04 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "256b940d-ccfd-496b-86f6-849963019e0a")
-		)
-		(pin "1"
-			(uuid "24dbffe5-4a85-431c-9adc-3aee90a6f557")
-		)
-		(instances
-			(project "usbhub"
-				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -7920,8 +7921,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 21.59 45.72 180)
+		(lib_id "Device:C")
+		(at 229.87 26.67 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7930,31 +7931,31 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "b5867503-e97a-4103-bbe0-7dfe2b20c92a")
-		(property "Reference" "R1"
-			(at 24.13 44.4499 0)
+		(uuid "b5f7d8be-e4a4-4b93-a4f8-51ef37841ce4")
+		(property "Reference" "C22"
+			(at 233.68 25.3999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "5.1k"
-			(at 24.13 46.9899 0)
+		(property "Value" "1uF"
+			(at 233.68 27.9399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 23.368 45.72 90)
+		(property "Footprint" "lcsc:C0402"
+			(at 230.8352 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7965,7 +7966,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 21.59 45.72 0)
+			(at 229.87 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7975,8 +7976,19 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 21.59 45.72 0)
+		(property "Description" "Unpolarized capacitor"
+			(at 229.87 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C29266"
+			(at 229.87 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7987,15 +7999,201 @@
 			)
 		)
 		(pin "2"
-			(uuid "f001ca07-32b9-4828-87c3-728b6c72d239")
+			(uuid "0020f60d-2af7-42d7-a837-cc99d702f02e")
 		)
 		(pin "1"
-			(uuid "7626c3ee-2551-49ff-8a47-3184a2d1ab8c")
+			(uuid "ba499de3-01da-45c5-b70e-c42c9d2394e5")
 		)
 		(instances
 			(project "usbhub"
 				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "R1")
+					(reference "C22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 209.55 138.43 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b734cee1-f607-45e4-aeee-5da1ee62bf89")
+		(property "Reference" "C25"
+			(at 213.36 137.1599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF"
+			(at 213.36 139.6999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "lcsc:C0402"
+			(at 210.5152 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 209.55 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C29266"
+			(at 209.55 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "10098689-0412-4804-8166-ae018613a01d")
+		)
+		(pin "1"
+			(uuid "1de3a240-0216-4688-95c4-78d5fdc9371c")
+		)
+		(instances
+			(project "usbhub"
+				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
+					(reference "C25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 118.11 22.86 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b8e03d53-45dc-4083-ab3f-367f027aa6c6")
+		(property "Reference" "C20"
+			(at 121.92 21.5899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF"
+			(at 121.92 24.1299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "lcsc:C0402"
+			(at 119.0752 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.11 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 118.11 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C29266"
+			(at 118.11 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d2a03778-e94b-4b69-83c6-5d8967854c3d")
+		)
+		(pin "1"
+			(uuid "82f547a5-823b-4169-9038-def7948bf967")
+		)
+		(instances
+			(project "usbhub"
+				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -8035,7 +8233,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:USB-A-TH_10.0QHHTZB6.3"
+		(property "Footprint" "lcsc:USB-A-TH_10.0QHHTZB6.3"
 			(at 199.39 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -8201,6 +8399,99 @@
 			(project "usbhub"
 				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
 					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 21.59 59.69 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "be2784db-297b-444c-b710-66cc8265ba33")
+		(property "Reference" "R11"
+			(at 24.13 58.4199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "5.1k"
+			(at 24.13 60.9599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "lcsc:R0402"
+			(at 19.812 59.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 21.59 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 21.59 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C105872"
+			(at 21.59 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "5a95e44b-965f-43cc-8a1c-76d2720f6321")
+		)
+		(pin "1"
+			(uuid "62586d95-c809-4a49-b468-ba9b445ffa06")
+		)
+		(instances
+			(project "usbhub"
+				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -8442,7 +8733,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 118.11 22.86 0)
+		(at 207.01 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8451,9 +8742,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "cab4f6f1-24ff-4184-a685-236ab34f5d77")
-		(property "Reference" "C20"
-			(at 121.92 21.5899 0)
+		(uuid "c89f826a-4a55-4d5c-970b-769f4feea87b")
+		(property "Reference" "C15"
+			(at 210.82 90.1699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8464,7 +8755,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 121.92 24.1299 0)
+			(at 210.82 92.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8474,8 +8765,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 119.0752 26.67 0)
+		(property "Footprint" "lcsc:C0402"
+			(at 207.9752 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8486,7 +8777,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 118.11 22.86 0)
+			(at 207.01 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8497,7 +8788,18 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 118.11 22.86 0)
+			(at 207.01 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C29266"
+			(at 207.01 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8508,15 +8810,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "867a5b20-969e-4ce9-ab12-a585da303f4e")
+			(uuid "e1a42b15-a1d2-4334-8a83-b870f3cc076f")
 		)
 		(pin "1"
-			(uuid "5a90b966-d96d-4a31-a17f-5cb37d7bb568")
+			(uuid "3a46f57d-ee4d-4bdd-a416-ee99f6957853")
 		)
 		(instances
 			(project "usbhub"
 				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "C20")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -8524,7 +8826,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 209.55 138.43 0)
+		(at 184.15 90.17 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8533,9 +8835,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "ccc07e6f-a9aa-43ff-a391-b0866327992b")
-		(property "Reference" "C5"
-			(at 213.36 137.1599 0)
+		(uuid "c8aabf93-73c3-4b5d-aee1-4b4dd7d408be")
+		(property "Reference" "C13"
+			(at 187.96 88.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8546,7 +8848,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 213.36 139.6999 0)
+			(at 187.96 91.4399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8556,8 +8858,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 210.5152 142.24 0)
+		(property "Footprint" "lcsc:C0402"
+			(at 185.1152 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8568,7 +8870,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 209.55 138.43 0)
+			(at 184.15 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8579,7 +8881,18 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 209.55 138.43 0)
+			(at 184.15 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C29266"
+			(at 184.15 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8590,15 +8903,108 @@
 			)
 		)
 		(pin "2"
-			(uuid "c962d0c5-a33a-4ef4-9529-76f8ef99127b")
+			(uuid "116482e9-24e4-4aff-bd76-7d3d81f155ab")
 		)
 		(pin "1"
-			(uuid "b92b66f2-98fb-426f-8460-d21bceb45e7d")
+			(uuid "84489183-f764-454a-a6c8-49e5ec386066")
 		)
 		(instances
 			(project "usbhub"
 				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "C5")
+					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 21.59 45.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d06095b2-2afc-4dce-9d88-7b06a5e02ae4")
+		(property "Reference" "R10"
+			(at 24.13 44.4499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "5.1k"
+			(at 24.13 46.9899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "lcsc:R0402"
+			(at 19.812 45.72 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 21.59 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 21.59 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C105872"
+			(at 21.59 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a6c9d5ed-5488-432d-af9b-c78788dbd8ac")
+		)
+		(pin "1"
+			(uuid "94281b8c-2a74-407d-8567-4288a01ce1ad")
+		)
+		(instances
+			(project "usbhub"
+				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -8763,6 +9169,192 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 165.1 138.43 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d516d585-afe8-4758-ae6f-bd32af60efc9")
+		(property "Reference" "C24"
+			(at 168.91 137.1599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF"
+			(at 168.91 139.6999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "lcsc:C0402"
+			(at 166.0652 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 165.1 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C29266"
+			(at 165.1 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d24c7ae5-ed61-4292-af98-c7bd4527184a")
+		)
+		(pin "1"
+			(uuid "e0948eda-681b-4f6e-9f14-1d8ace695374")
+		)
+		(instances
+			(project "usbhub"
+				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
+					(reference "C24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 43.18 119.38 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d5868bee-f365-4ee0-8663-17441e57a7c7")
+		(property "Reference" "C19"
+			(at 46.99 118.1099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF"
+			(at 46.99 120.6499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "lcsc:C0402"
+			(at 44.1452 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 43.18 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 43.18 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C29266"
+			(at 43.18 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "143c4bde-ef25-4be6-8a9e-fe2e13d6e90b")
+		)
+		(pin "1"
+			(uuid "46ee1580-098b-4ae4-b696-5f12a42a663d")
+		)
+		(instances
+			(project "usbhub"
+				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
+					(reference "C19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 58.42 34.29 0)
 		(unit 1)
@@ -8872,7 +9464,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL"
+		(property "Footprint" "lcsc:SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL"
 			(at 184.15 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -9074,252 +9666,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 176.53 22.86 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "db9fb451-7a5c-404c-aeef-fce9d4019adb")
-		(property "Reference" "C2"
-			(at 180.34 21.5899 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 180.34 24.1299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 177.4952 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 176.53 22.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 176.53 22.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "a489f921-8598-4946-b6af-10478466f1e9")
-		)
-		(pin "1"
-			(uuid "51fc2e32-88e4-4104-b65e-649fa355b3b7")
-		)
-		(instances
-			(project "usbhub"
-				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 21.59 59.69 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e4eb430b-a0bd-4b01-811b-fce7e83c5338")
-		(property "Reference" "R2"
-			(at 24.13 58.4199 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "5.1k"
-			(at 24.13 60.9599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 23.368 59.69 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 21.59 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 21.59 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "e97ccc08-c556-4c81-ac3a-663590dc6828")
-		)
-		(pin "1"
-			(uuid "8be2aad1-b3d9-4611-9999-4f726c87499e")
-		)
-		(instances
-			(project "usbhub"
-				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 168.91 110.49 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e68ad773-2826-4c86-8bee-2e0c405f4546")
-		(property "Reference" "R3"
-			(at 171.45 109.2199 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "5.1k"
-			(at 171.45 111.7599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 167.132 110.49 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 168.91 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 168.91 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "8cfa7119-aa40-4dab-99ac-9b56fe801445")
-		)
-		(pin "1"
-			(uuid "4f0effba-3e7e-4493-8d87-2393c5cdcd23")
-		)
-		(instances
-			(project "usbhub"
-				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 40.64 62.23 270)
 		(unit 1)
@@ -9432,7 +9778,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "lcsc:R0402"
 			(at 164.592 125.73 90)
 			(hide yes)
 			(show_name no)
@@ -9455,6 +9801,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 166.37 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C105872"
 			(at 166.37 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -9592,7 +9949,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:USB-A-TH_10.0QHHTZB6.3"
+		(property "Footprint" "lcsc:USB-A-TH_10.0QHHTZB6.3"
 			(at 255.27 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -9680,88 +10037,6 @@
 			(project "usbhub"
 				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
 					(reference "USB4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 129.54 67.31 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "edf2b67b-794b-4c9d-b3f0-b63b332542a2")
-		(property "Reference" "C10"
-			(at 133.35 66.0399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 133.35 68.5799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 130.5052 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 129.54 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 129.54 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "83b02e8d-4145-4439-8a36-cf3053d588eb")
-		)
-		(pin "1"
-			(uuid "2094da49-6649-4754-9b0c-003aa75eab69")
-		)
-		(instances
-			(project "usbhub"
-				(path "/32d624bb-c978-4570-8c92-7fbd28df6f08"
-					(reference "C10")
 					(unit 1)
 				)
 			)
