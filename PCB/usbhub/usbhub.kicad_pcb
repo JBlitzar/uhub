@@ -13063,6 +13063,14 @@
 		(uuid "924e2de4-31ab-4a18-b1fe-8c715e03b547")
 	)
 	(via
+		(at 168.22 85.05)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net "GND")
+		(uuid "aab005bb-8d3f-4515-9453-957d43017e97")
+	)
+	(via
 		(at 159 79)
 		(size 0.6)
 		(drill 0.3)
