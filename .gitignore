@@ -27,4 +27,4 @@ fp-info-cache
 *.ses
 
 
-PCB/usbhub/production/*.csv
+# PCB/usbhub/production/*.csv
