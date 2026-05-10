@@ -13,6 +13,8 @@ I wanted to make it to connect to more accessories at a time, for use either on 
 
 ## PCB Images
 
+[KiCanvas](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FJBlitzar%2Fuhub%2Ftree%2Fmain%2FPCB%2Fusbhub)
+
 ![](docs/schematic.png)
 
 ![](docs/pcb.png)
