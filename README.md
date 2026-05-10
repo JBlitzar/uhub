@@ -59,6 +59,8 @@ I'd like to credit this guide, since I used it as reference, but my design is di
 
 ## Bom in table format
 
++1x case (3d printed for free, not included in BOM)
+
 | Link                                              | Footprint                        | Quantity | Value            | LCSC Part # | Designator                                                    |
 | ------------------------------------------------- | -------------------------------- | -------- | ---------------- | ----------- | ------------------------------------------------------------- |
 | https://www.lcsc.com/product-detail/C29266.html   | C0402                            | 13       | 1uF              | C29266      | C11, C13, C15, C17, C19, C20, C21, C22, C23, C24, C25, C7, C9 |
