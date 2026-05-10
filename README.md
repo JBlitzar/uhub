@@ -28,7 +28,7 @@ YOUR PROJECT IS ACTUALLY COMPLETE:
 
 YOUR GITHUB REPOSITORY CONTAINS ALL OF YOUR PROJECT FILES:
 
-- [x] a BOM, in CSV format in the root directory, WITH LINKS (BOM.csv)
+- [x] a BOM, in CSV format in the root directory, WITH LINKS [BOM.csv](BOM.csv)
 - [x] the source files for your PCB, if you have one (.kicad_pro, .kicad_sch, gerbers.zip, etc) [PCB/usbhub/](PCB/README.md)
 - [x] A .STEP file of your project's 3D CAD model (and ideally the source design file format as well - .f3d, .FCStd, etc) [CAD/usbhub_assembly.step](CAD/README.md), [CAD/README.md](CAD/README.md)
 - [x] ANY other files that are part of your project (firmware, libraries, references, etc)
