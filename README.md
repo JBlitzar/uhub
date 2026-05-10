@@ -1,9 +1,11 @@
 # uhub
 
-## usb hub
+## Pictures
 
 ![](CAD/render1.png)
 ![](docs/assembly.png)
+
+## What this project is and why I made it
 
 It's a USB hub. It has one upstream USB-C port, and seven downstream ports: Five USB-A and two USB-C. Since the ICs only support four downstream ports, I daisy-chained two of them.
 
