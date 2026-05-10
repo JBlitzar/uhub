@@ -59,13 +59,16 @@ I'd like to credit this guide, since I used it as reference, but my design is di
 
 ## Bom in table format
 
-+1x case (3d printed for free, not included in BOM)
-
-| Link                                              | Footprint                        | Quantity | Value            | LCSC Part # | Designator                                                    |
-| ------------------------------------------------- | -------------------------------- | -------- | ---------------- | ----------- | ------------------------------------------------------------- |
-| https://www.lcsc.com/product-detail/C29266.html   | C0402                            | 13       | 1uF              | C29266      | C11, C13, C15, C17, C19, C20, C21, C22, C23, C24, C25, C7, C9 |
-| https://www.lcsc.com/product-detail/C60474.html   | C0402                            | 6        | 100nF            | C60474      | C12, C14, C16, C18, C26, C27                                  |
-| https://www.lcsc.com/product-detail/C105872.html  | R0402                            | 6        | 5.1k             | C105872     | R10, R11, R4, R7, R8, R9                                      |
-| https://www.lcsc.com/product-detail/C2684433.html | SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL | 2        | SL2.1S           | C2684433    | U1, U2                                                        |
-| https://www.lcsc.com/product-detail/C2765186.html | USB-C-SMD_TYPE-C-16PIN-2MD-073   | 3        | TYPE-C 16PIN 2MD | C2765186    | USB1_UPSTREAM1, USB5, USB6                                    |
-| https://www.lcsc.com/product-detail/C668591.html  | USB-A-TH_10.0QHHTZB6.3           | 5        | 10.0 QHHTZB6.3   | C668591     | USB2, USB3, USB4, USB7, USB8                                  |
+| Name            | Link                                              | Footprint                        | Quantity | Value            | LCSC Part # | Designator                                                    | Distributor  | Total cost |
+| --------------- | ------------------------------------------------- | -------------------------------- | -------- | ---------------- | ----------- | ------------------------------------------------------------- | ------------ | ---------- |
+| 1uF capacitor   | https://www.lcsc.com/product-detail/C29266.html   | C0402                            | 13       | 1uF              | C29266      | C11, C13, C15, C17, C19, C20, C21, C22, C23, C24, C25, C7, C9 | LCSC         | 0          |
+| 100nF capacitor | https://www.lcsc.com/product-detail/C60474.html   | C0402                            | 6        | 100nF            | C60474      | C12, C14, C16, C18, C26, C27                                  | LCSC         | 0          |
+| 5.1k resistor   | https://www.lcsc.com/product-detail/C105872.html  | R0402                            | 6        | 5.1k             | C105872     | R10, R11, R4, R7, R8, R9                                      | LCSC         | 0          |
+| USB IC          | https://www.lcsc.com/product-detail/C2684433.html | SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL | 2        | SL2.1S           | C2684433    | U1, U2                                                        | LCSC         | 0          |
+| USB C port      | https://www.lcsc.com/product-detail/C2765186.html | USB-C-SMD_TYPE-C-16PIN-2MD-073   | 3        | TYPE-C 16PIN 2MD | C2765186    | USB1_UPSTREAM1, USB5, USB6                                    | LCSC         | 0          |
+| USB A port      | https://www.lcsc.com/product-detail/C668591.html  | USB-A-TH_10.0QHHTZB6.3           | 5        | 10.0 QHHTZB6.3   | C668591     | USB2, USB3, USB4, USB7, USB8                                  | LCSC         | 0          |
+| PCB             | N/A                                               | N/A                              | 1        | N/A              | N/A         | N/A                                                           | JLCPCB       | 4          |
+| PCBA            | N/A                                               | N/A                              | 1        | N/A              | N/A         | N/A                                                           | JLCPCB       | 32.78      |
+| Shipping        | N/A                                               | N/A                              | 1        | N/A              | N/A         | N/A                                                           | JLCPCB       | 3.3        |
+| Sales tax       | N/A                                               | N/A                              | 1        | N/A              | N/A         | N/A                                                           | JLCPCB       | 4          |
+| 3d printed case | N/A                                               | N/A                              | 1        | N/A              | N/A         | N/A                                                           | self-sourced | 0          |
