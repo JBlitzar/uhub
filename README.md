@@ -21,7 +21,7 @@ I wanted to make it to connect to more accessories at a time, for use either on 
 
 YOUR PROJECT IS ACTUALLY COMPLETE:
 
-- [x] It has a complete CAD assembly, with all components (including electronics) (CAD/usbhub_assembly.step)
+- [x] It has a complete CAD assembly, with all components (including electronics) [CAD/usbhub_assembly.step](CAD/README.md)
 - No firmware, the IC chip doesn't need any and it's otherwise just hardware.
 - [x] You have sanity checked your design with someone else (on Slack)
 - [x] (optional) you have a 3D render of your project!
@@ -29,8 +29,8 @@ YOUR PROJECT IS ACTUALLY COMPLETE:
 YOUR GITHUB REPOSITORY CONTAINS ALL OF YOUR PROJECT FILES:
 
 - [x] a BOM, in CSV format in the root directory, WITH LINKS (BOM.csv)
-- [x] the source files for your PCB, if you have one (.kicad_pro, .kicad_sch, gerbers.zip, etc) (PCB/usbhub/)
-- [x] A .STEP file of your project's 3D CAD model (and ideally the source design file format as well - .f3d, .FCStd, etc) (CAD/usbhub_assembly.step, CAD/README.md)
+- [x] the source files for your PCB, if you have one (.kicad_pro, .kicad_sch, gerbers.zip, etc) [PCB/usbhub/](PCB/README.md)
+- [x] A .STEP file of your project's 3D CAD model (and ideally the source design file format as well - .f3d, .FCStd, etc) [CAD/usbhub_assembly.step](CAD/README.md), [CAD/README.md](CAD/README.md)
 - [x] ANY other files that are part of your project (firmware, libraries, references, etc)
 - [x] You have everything easily readable and organized into folders.
 - If you're missing a .STEP file with all of your electronics and CAD, your project will not be approved.
