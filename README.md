@@ -15,6 +15,10 @@ I wanted to make it to connect to more accessories at a time, for use either on 
 
 [KiCanvas](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FJBlitzar%2Fuhub%2Ftree%2Fmain%2FPCB%2Fusbhub)
 
+For-fun PCB plot, kicad screenshots below.
+
+![](https://cdn.hackclub.com/019e5766-0ed7-7d34-ab3e-d629163bbf98/uhub_pcb_plot.jpeg)
+
 ![](docs/schematic.png)
 
 ![](docs/pcb.png)
