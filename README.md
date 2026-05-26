@@ -4,7 +4,7 @@
 
 Hi, I'm a bit new to Forge, wasn't quite sure if there's a spot to put this in the GUI when submitting for review.
 
-I'm asking for $35.
+The total cost is going to be $35.
 
 I went through the requirements one by one in the README and linked where each one should be to try to help you with review
 
