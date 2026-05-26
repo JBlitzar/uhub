@@ -10,7 +10,7 @@ I went through the requirements one by one in the README and linked where each o
 
 Regarding DRC errors, the annular ring ones are just in the footprints I imported, but those came straight from easyeda2kicad, so I'm pretty sure they're actually fine. And the ground plane ones aren't real errors either (afaik), on all of those locations I added an extra trace to another grounded part just to be extra sure.
 
-I can't reduce PCBA cost because USB connectors are extended parts, but I did find a $9 coupon which I hope helps :)
+I can't reduce PCBA cost because the SL2.1S IC is an extended part, but I did find a $9 coupon which I hope helps :)
 
 Please double check that everything should work electrically, I'm decently new to PCB (this is my third project but first USB hub, I'm also new to Fallout but have done blueprint before)
 
