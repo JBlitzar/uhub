@@ -19,10 +19,6 @@ Anyways, yeah!
 
 ![Screenshot 2026-05-09 at 8.28.47 PM](https://stasis.hackclub-assets.com/images/1778383731022-jzmocs.png)
 
-![image](https://stasis.hackclub-assets.com/images/1778383691057-e1lfk9.png)
-![image](https://stasis.hackclub-assets.com/images/1778383709329-y1hyff.png)
-![image](https://stasis.hackclub-assets.com/images/1778383731022-jzmocs.png)
-
 # 5/10/2026 9 AM - Made all the traces good
 
 _Time spent: 0.5833333333333334h_
@@ -35,8 +31,6 @@ But mostly I was just fiddling around in kicad. I guess I cleaned up the ground 
 
 ![Screenshot 2026-05-10 at 8.41.43 AM](https://stasis.hackclub-assets.com/images/1778427721820-uhkntk.png)
 
-![image](https://stasis.hackclub-assets.com/images/1778427721820-uhkntk.png)
-
 # 5/10/2026 3 PM - Cadded case, wrote docs, reviewed guidelines
 
 _Time spent: 2h_
@@ -48,6 +42,3 @@ Now, my repo is properly organized, and the readme walks readers through what th
 ![image](https://stasis.hackclub-assets.com/images/1778451918757-ozgwla.png)
 
 ![Screenshot 2026-05-10 at 3.23.11 PM](https://stasis.hackclub-assets.com/images/1778451796360-aiy1ze.png)
-
-![image](https://stasis.hackclub-assets.com/images/1778451918757-ozgwla.png)
-![image](https://stasis.hackclub-assets.com/images/1778451796360-aiy1ze.png)
