@@ -31,7 +31,7 @@ But mostly I was just fiddling around in kicad. I guess I cleaned up the ground 
 
 ![image](https://stasis.hackclub-assets.com/images/1778427721820-uhkntk.png)
 
-# 5/10/2026 8 PM - Researched, made prelim schematic, routed it
+# 5/9/2026 8 PM - Researched, made prelim schematic, routed it
 
 _Time spent: 2.883333333333333h_
 
