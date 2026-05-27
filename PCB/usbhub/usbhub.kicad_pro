@@ -120,10 +120,6 @@
           ""
         ],
         [
-          "starved_thermal|160385000|48810000|642a739b-8dc1-49c2-bcfc-01b04e03988f|0e6f00d2-27d4-4c36-bc3a-88168c3526dc|F.Cu",
-          ""
-        ],
-        [
           "starved_thermal|163340000|84750000|642a739b-8dc1-49c2-bcfc-01b04e03988f|bad7b0ae-89a4-4fe7-977e-a408c7163456|F.Cu",
           ""
         ],
@@ -725,7 +721,7 @@
         "uuid": "32d624bb-c978-4570-8c92-7fbd28df6f08"
       }
     ],
-    "used_designators": "",
+    "used_designators": "H1-4",
     "variants": []
   },
   "sheets": [
