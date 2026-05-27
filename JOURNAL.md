@@ -6,6 +6,8 @@ Stasis review was stagnant for two weeks, I guess the reviewers are busy. I've d
 
 I also added mounting holes. I couldn't go for the standard all-four-corners layout because my PCB's pretty packed, but top left corner and bottom middle should be good enough. It's just for securing things in the case. I then added the holes to the case. The plan is to use M3 screws and have a mangement system similar to the Hackpad, where there's a 5mm hole at the bottom to fit the head of the screw, then a 3mm hole in the pcb. This also nicely elevates it from the surface, which is kind of cool. Then the nut will just be screwed in from the top and visible, so just a 3mm hole on the top of the case. No BOM additions needed since I'll just self-source these m3 screws and nuts.
 
+The fact that some traces are inside the courtyard shouldn't be a problem (no 3d components or anything, plus the back, where the screw head's actually going to be, is completely clear). Then again, I'm no pcb expert.
+
 This, combined with fanagling around with all the files, genuinely took an hour: I timed when I started. Anyways, there you go.
 
 ![](https://cdn.hackclub.com/019e66c7-c60d-7169-b0b7-23d2ae303248/Screenshot%202026-05-26%20at%205.13.43%E2%80%AFPM.png)
