@@ -45,7 +45,7 @@ Now, my repo is properly organized, and the readme walks readers through what th
 
 # 5/26/2026 5 PM - Migrated to Forge, added mounting holes, etc
 
-_Time spent: 1.06h_
+_Time spent: 1.43h_
 
 Stasis review was stagnant for two weeks, I guess the reviewers are busy. I've decided to migrate to Forge. Most of the stuff just copied over. I then did some research about BOM reduction, but I genuinely can't because of the special IC is in the extended parts. It's not too bad anyways, can always pay out of the other grant if I really have to.
 
