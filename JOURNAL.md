@@ -1,19 +1,3 @@
-# 5/26/2026 5 PM - Migrated to Forge, added mounting holes, etc
-
-_Time spent: 1.06h_
-
-Stasis review was stagnant for two weeks, I guess the reviewers are busy. I've decided to migrate to Forge. Most of the stuff just copied over. I then did some research about BOM reduction, but I genuinely can't because of the special IC is in the extended parts. It's not too bad anyways, can always pay out of the other grant if I really have to.
-
-I also added mounting holes. I couldn't go for the standard all-four-corners layout because my PCB's pretty packed, but top left corner and bottom middle should be good enough. It's just for securing things in the case. I then added the holes to the case. The plan is to use M3 screws and have a mangement system similar to the Hackpad, where there's a 6mm hole at the bottom to fit the head of the screw, then a 3mm hole in the pcb. This also nicely elevates it from the surface, which is kind of cool. Then the nut will just be screwed in from the top and visible, so just a 3mm hole on the top of the case. No BOM additions needed since I'll just self-source these m3 screws and nuts.
-
-The fact that some traces are inside the courtyard shouldn't be a problem (no 3d components or anything, plus the back, where the screw head's actually going to be, is completely clear). Then again, I'm no pcb expert.
-
-This, combined with fanagling around with all the files, genuinely took an hour: I timed when I started. Anyways, there you go.
-
-![](https://cdn.hackclub.com/019e66c7-c60d-7169-b0b7-23d2ae303248/Screenshot%202026-05-26%20at%205.13.43%E2%80%AFPM.png)
-
-![](https://cdn.hackclub.com/019e66ca-15ee-7864-91b7-fefe85431215/Screenshot%202026-05-26%20at%205.16.12%E2%80%AFPM.png)
-
 # 5/9/2026 8 PM - Researched, made prelim schematic, routed it
 
 _Time spent: 2.883333333333333h_
@@ -58,3 +42,19 @@ Now, my repo is properly organized, and the readme walks readers through what th
 ![image](https://stasis.hackclub-assets.com/images/1778451918757-ozgwla.png)
 
 ![Screenshot 2026-05-10 at 3.23.11 PM](https://stasis.hackclub-assets.com/images/1778451796360-aiy1ze.png)
+
+# 5/26/2026 5 PM - Migrated to Forge, added mounting holes, etc
+
+_Time spent: 1.06h_
+
+Stasis review was stagnant for two weeks, I guess the reviewers are busy. I've decided to migrate to Forge. Most of the stuff just copied over. I then did some research about BOM reduction, but I genuinely can't because of the special IC is in the extended parts. It's not too bad anyways, can always pay out of the other grant if I really have to.
+
+I also added mounting holes. I couldn't go for the standard all-four-corners layout because my PCB's pretty packed, but top left corner and bottom middle should be good enough. It's just for securing things in the case. I then added the holes to the case. The plan is to use M3 screws and have a mangement system similar to the Hackpad, where there's a 6mm hole at the bottom to fit the head of the screw, then a 3mm hole in the pcb. This also nicely elevates it from the surface, which is kind of cool. Then the nut will just be screwed in from the top and visible, so just a 3mm hole on the top of the case. No BOM additions needed since I'll just self-source these m3 screws and nuts.
+
+The fact that some traces are inside the courtyard shouldn't be a problem (no 3d components or anything, plus the back, where the screw head's actually going to be, is completely clear). Then again, I'm no pcb expert.
+
+This, combined with fanagling around with all the files, genuinely took an hour: I timed when I started. Anyways, there you go.
+
+![](https://cdn.hackclub.com/019e66c7-c60d-7169-b0b7-23d2ae303248/Screenshot%202026-05-26%20at%205.13.43%E2%80%AFPM.png)
+
+![](https://cdn.hackclub.com/019e66ca-15ee-7864-91b7-fefe85431215/Screenshot%202026-05-26%20at%205.16.12%E2%80%AFPM.png)
