@@ -53,7 +53,9 @@ I also added mounting holes. I couldn't go for the standard all-four-corners lay
 
 The fact that some traces are inside the courtyard shouldn't be a problem (no 3d components or anything, plus the back, where the screw head's actually going to be, is completely clear). Then again, I'm no pcb expert.
 
-This, combined with fanagling around with all the files, genuinely took an hour: I timed when I started. Anyways, there you go.
+I re-exported twice because I at first did 5mm instead of 6mm for the m3 head, and then I wanted to nitpick some traces.
+
+All this combined genuinely took an hour and a half: I timed when I started. Anyways, there you go.
 
 ![](https://cdn.hackclub.com/019e66c7-c60d-7169-b0b7-23d2ae303248/Screenshot%202026-05-26%20at%205.13.43%E2%80%AFPM.png)
 
