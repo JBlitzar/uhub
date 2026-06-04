@@ -60,3 +60,23 @@ All this combined genuinely took an hour and a half: I timed when I started. Any
 ![](https://cdn.hackclub.com/019e66c7-c60d-7169-b0b7-23d2ae303248/Screenshot%202026-05-26%20at%205.13.43%E2%80%AFPM.png)
 
 ![](https://cdn.hackclub.com/019e66ca-15ee-7864-91b7-fefe85431215/Screenshot%202026-05-26%20at%205.16.12%E2%80%AFPM.png)
+
+
+# 6/3/2026 7 PM - Most traumatic session ordering JLC
+
+_Time spent: 0.1h_
+
+> This took more like 0.5-1 hours, but this of course doesn't count as hardware learning time, so I'm deflating myself here. 
+
+Anyways, I went to upload all my stuff to JLC. And I was clicking through, selecting my various things. Then it's time for PCBA. Now keep in mind
+I've never done pcba before, so it was pretty new to me. I uploaded my bom and uploaded my positions csv. One small hiccup that my hole footprints were somehow on the BOM, even though of course they're not a part that I need to place, so I removed them. No biggie. And then I clicked through to the preview, and I was about to just click past and order it. But then I saw that the HUB ICs WERE ROTATED NINETY DEGREES.
+
+![](https://cdn.hackclub.com/019e9087-76ff-7a05-baa7-27c82fe6469b/Screenshot%202026-06-03%20at%207.18.50%E2%80%AFPM.png)
+
+So even though I used an automated plugin, "Fabrication Toolkit" to generate these placement files, I edited it manually to do the hub ICs correctly. Now there's one more funny thing, which is that the IC itself is symmetrical but the pins cannot be used interchangably. So I had to go off of the orientation of the etched "SL2.1S" on the Kicad preview to get things to work. Anyways, it looks good now
+
+![](https://cdn.hackclub.com/019e908d-c87b-70e4-8fbd-449eb6f4aec4/uhub_pcba_journey.png)
+
+Here's an artistic rendition of what I went through.
+
+Anyways, we'll see how this turns out! By the way I also printed out my case, but I might make some tweaks to it.

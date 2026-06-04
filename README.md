@@ -1,21 +1,5 @@
 # uhub
 
-## Note to the reviewers:
-
-Hi, I'm a bit new to Forge, wasn't quite sure if there's a spot to put this in the GUI when submitting for review.
-
-The total cost is going to be $30. (I think that might be slightly above how many points I currently have, but I have a grant card that works on JLC so I might just use that and then spend the points in the shop)
-
-I went through the requirements one by one in the README and linked where each one should be to try to help you with review
-
-Regarding DRC errors, the annular ring ones are just in the footprints I imported, but those came straight from easyeda2kicad, so I'm pretty sure they're actually fine. And the ground plane ones aren't real errors either (afaik), on all of those locations I added an extra trace to another grounded part just to be extra sure.
-
-I can't reduce PCBA cost because the SL2.1S IC is an extended part, but I did find a $9 coupon which I hope helps :)
-
-Please double check that everything should work electrically, I'm decently new to PCB (this is my third project but first USB hub, I'm also new to Fallout but have done blueprint before)
-
-Feel free to dm me on slack if you have any reviewing questions
-
 ## Pictures
 
 ![](CAD/render1.png)
@@ -39,39 +23,6 @@ For-fun PCB plot, kicad screenshots below.
 
 ![](docs/pcb.png)
 
-## Requirements
-
-YOUR PROJECT IS ACTUALLY COMPLETE:
-
-- [x] It has a complete CAD assembly, with all components (including electronics) [CAD/usbhub_assembly.step](CAD/README.md)
-- No firmware, the IC chip doesn't need any and it's otherwise just hardware.
-- [x] You have sanity checked your design with someone else (on Slack)
-- [x] (optional) you have a 3D render of your project!
-
-YOUR GITHUB REPOSITORY CONTAINS ALL OF YOUR PROJECT FILES:
-
-- [x] a BOM, in CSV format in the root directory, WITH LINKS [BOM.csv](BOM.csv)
-- [x] the source files for your PCB, if you have one (.kicad_pro, .kicad_sch, gerbers.zip, etc) [PCB/usbhub/](PCB/README.md)
-- [x] A .STEP file of your project's 3D CAD model (and ideally the source design file format as well - .f3d, .FCStd, etc) [CAD/usbhub_assembly.step](CAD/README.md), [CAD/README.md](CAD/README.md)
-- [x] ANY other files that are part of your project (firmware, libraries, references, etc)
-- [x] You have everything easily readable and organized into folders.
-- If you're missing a .STEP file with all of your electronics and CAD, your project will not be approved.
-
-YOUR README.md FILE CONTAINS THE FOLLOWING:
-
-- [x] A short description of what your project is
-- [x] A couple sentences on why you made the project
-- [x] PICTURES OF YOUR PROJECT
-- [x] A screenshot of a full 3D model with your project
-- [x] A screenshot of your PCB, if you have one
-- (N/A) A wiring diagram, if you're doing any wiring that isn't on a PCB
-- [x] A BOM in table format at the end of the README
-
-YOU DO NOT HAVE:
-
-- AI Generated READMEs or Journal entries
-- Stolen work from other people
-- Missing firmware/software
 
 ## Credits
 
