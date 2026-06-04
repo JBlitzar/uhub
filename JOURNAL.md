@@ -73,7 +73,7 @@ I've never done pcba before, so it was pretty new to me. I uploaded my bom and u
 
 ![](https://cdn.hackclub.com/019e9087-76ff-7a05-baa7-27c82fe6469b/Screenshot%202026-06-03%20at%207.18.50%E2%80%AFPM.png)
 
-So even though I used an automated plugin, "Fabrication Toolkit" to generate these placement files, I edited it manually to do the hub ICs correctly. Now there's one more funny thing, which is that the IC itself is symmetrical but the pins cannot be used interchangably. So I had to go off of the orientation of the etched "SL2.1S" on the Kicad preview to get things to work. Anyways, it looks good now
+So even though I used an automated plugin, "Fabrication Toolkit" to generate these placement files, I edited it manually to do the hub ICs correctly. It really makes you trust the system less when automated tools fail you like this, but hopefully everything else works. The thing with pcba is that it's kind of out of my hands now, which is both good and bad. Now there's one more funny thing, which is that the IC itself is symmetrical but the pins cannot be used interchangably. So I had to go off of the orientation of the etched "SL2.1S" on the Kicad preview to get things to work. Anyways, it looks good now
 
 ![](https://cdn.hackclub.com/019e908d-c87b-70e4-8fbd-449eb6f4aec4/uhub_pcba_journey.png)
 
