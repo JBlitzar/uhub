@@ -1,9 +1,6 @@
 # uhub
 
-## Pictures
-
-![](CAD/render1.png)
-![](docs/assembly.png)
+![](docs/banner.jpeg)
 
 ## What this project is and why I made it
 
