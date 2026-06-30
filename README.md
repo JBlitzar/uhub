@@ -1,8 +1,14 @@
 # uhub
 
+## Finished product
+
 ![](docs/banner.jpeg)
 
-## Pictures
+## Demo video
+
+[![](https://user-cdn.hackclub-assets.com/019f15d7-5197-777d-9754-d6e55334c714/uhub_demo_thumb.png)](https://cdn.hackclub.com/019f15d5-30f6-7ccb-814b-876b43633cb7/uhub_demo_stripped_optimized.mov)
+
+## other pictures
 
 ![](CAD/render1.png)
 ![](docs/assembly.png)
