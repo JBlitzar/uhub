@@ -1,5 +1,8 @@
 # uhub
 
+> [!NOTE]
+> uhh so the ports are very close together, which means for some thick USB connectors, plugging in to ports that are next to each other won't work. You might want to space them out if youre going to fab this yourself. Or, you know, just live with it and use skinny connectors.
+
 ## Finished product
 
 ![](docs/banner.jpeg)
